@@ -18,7 +18,7 @@ Por enquanto, sou apenas um estudante, mas pretendo seguir carreira na área da 
 
 Sou um jogador mediano de vôlei, não tenho uma posição no vôlei definida, porém prefiro jogar de líbero. No futsal, jogo de fixo, não tenho tanto drible e nem potência de chute, e estou aprendendo ser goleiro.
 <div align="center">
-  <img width=37% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/volei.jpeg"/>
+  <img width=35% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/volei.jpeg"/>
   <img width=30% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/futsal.jpeg"/>
   
 </div>
