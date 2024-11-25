@@ -1,4 +1,4 @@
-<body color:black></body>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=Christyann+Alike+Santos+Mesquita&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
@@ -35,9 +35,9 @@ Sou um jogador mediano de vôlei, não tenho uma posição no vôlei definida, p
 
 ### Contribuições no Github
 
-<div align="center">
+
 <img width="80%" height="200px" src="https://streak-stats.demolab.com/?user=AlikeIFMA&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=footer"/>
