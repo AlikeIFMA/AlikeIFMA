@@ -5,9 +5,10 @@
 ### Informações Pessoais
 
 Olá, me chamo Christyann Alike, sou adventista, e estou cursando informática no Instituto Federal no Maranhão, no segundo período. Gosto de jogos, vôlei e futsal.
-
-<img width=30% left=5% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/Design%20sem%20nome%20(1).gif"/>
-<img width=30% left=5% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/volei.gif"/>
+<div>
+  <img width=30% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/Design%20sem%20nome%20(1).gif"/>
+  <img width=30% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/volei.gif"/>
+</div>
 
 ### Informações Profissionais
 
@@ -16,6 +17,11 @@ Por enquanto, sou apenas um estudante, mas pretendo seguir carreira na área da 
 ### Habilidades Pessoais
 
 Sou um jogador mediano de vôlei, não tenho uma posição no vôlei definida, porém prefiro jogar de líbero. No futsal, jogo de fixo, não tenho tanto drible e nem potência de chute, e estou aprendendo ser goleiro.
+<div>
+  <img width=30% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/volei.jpeg"/>
+  <img width=30% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/futsal.jpeg"/>
+  
+</div>
 
 ### Redes Sociais
 
@@ -38,9 +44,9 @@ Sou um jogador mediano de vôlei, não tenho uma posição no vôlei definida, p
 
 ### Contribuições no Github
 
-<center>
+<div align="center">
   <img width="80%" height="200px" src="https://streak-stats.demolab.com/?user=AlikeIFMA&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">  
-</center>
+</div>
 
 
 
