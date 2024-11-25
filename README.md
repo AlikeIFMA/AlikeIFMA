@@ -6,7 +6,7 @@
 
 Olá, me chamo Christyann Alike, sou adventista, e estou cursando informática no Instituto Federal no Maranhão, no segundo período. Gosto de jogos, vôlei e futsal.
 
-<img width=60% src=/>
+<img width=60% src="https://github.com/AlikeIFMA/AlikeIFMA/blob/main/Design%20sem%20nome%20(1).gif"/>
 
 ### Informações Profissionais
 
