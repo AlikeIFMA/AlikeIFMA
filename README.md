@@ -35,8 +35,10 @@ Sou um jogador mediano de vôlei, não tenho uma posição no vôlei definida, p
 
 ### Contribuições no Github
 
+<center>
+  <img width="80%" height="200px" src="https://streak-stats.demolab.com/?user=AlikeIFMA&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">  
+</center>
 
-<img width="80%" height="200px" src="https://streak-stats.demolab.com/?user=AlikeIFMA&theme=react&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats">
 
 
 
