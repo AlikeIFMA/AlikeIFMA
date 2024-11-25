@@ -1,6 +1,6 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=Christyann+Alike+Santos+Mesquita&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red&height=180&section=header&text=Christyann+Alike+Santos+Mesquita&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 ### Informações Pessoais
 
@@ -44,4 +44,4 @@ Sou um jogador mediano de vôlei, não tenho uma posição no vôlei definida, p
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red&height=150&section=footer"/>
